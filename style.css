@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    color: white;
+}
+#full{
+    display: flex;
+}
+#fy{
+    width:150px;
+    height:50px;
+}
+#home{
+    width:20px;
+    height:15px;
+}
+#M{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+h1{
+    color: white;
+}
+#good{
+     color: white;
+     font-size: medium;
+     font-weight: 400;
+}
+#all{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: rgb(60, 60, 60);
+}
+#p{
+    width:60px;
+    height: 85px;
+}
